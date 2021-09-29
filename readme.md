@@ -1,5 +1,24 @@
 ### NOTE: Please note that this repo is a clone of https://github.com/nelaturuk/education_pathways for the first project of the University of Toronto's ECE444 Software Engineering course ###
 
+## Screenshots
+
+Activity 1:
+
+![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab3/blob/main/lab%203%20part%201%20image%201.png)
+
+Activity 2:
+
+![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab3/blob/main/lab%203%20part%202%20image%201.png)
+
+Activity 3:
+
+![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab3/blob/main/lab%203%20part%203%20image%201.png)
+
+Activity 4:
+
+![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab3/blob/main/lab%203%20part%204%20image%201.png)
+![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab3/blob/main/lab%203%20part%204%20image%202.png)
+
 # CARTE Education Pathways
 
 ## Description
