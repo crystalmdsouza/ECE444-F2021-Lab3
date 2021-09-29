@@ -1,3 +1,5 @@
+### NOTE: Please note that this repo is a clone of https://github.com/nelaturuk/education_pathways for the first project of the University of Toronto's ECE444 Software Engineering course ###
+
 # CARTE Education Pathways
 
 ## Description
