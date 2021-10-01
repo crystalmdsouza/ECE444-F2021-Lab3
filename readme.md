@@ -19,6 +19,10 @@ Activity 4:
 ![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab3/blob/main/lab%203%20part%204%20image%201.png)
 ![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab3/blob/main/lab%203%20part%204%20image%202.png)
 
+Activity 5:
+
+Upon reviewing the Education Pathways website content, I noted that one functional requirement is the ability to return a list of courses that is relevant to a student's needs. It is the main focus of the website, and there are many non-functional requirements supporting it, like allowing search by interest and filtering by department, year of study, and campus. One way I can better satisfy the functional requirement is by adding the ability to filter search results by degree requirement that the list of course fulfills (ie. accreditation units for engineers, breadth areas for arts and science students) so that students have an easier time finding a course that supports them towards graduation. One way I can improve the non-functional requirement of searching by interest is by adding the ability to return course lists without a search term - sometimes students may want to see all courses within a certain year of study, department and campus without constraining results by interest.
+
 # CARTE Education Pathways
 
 ## Description
